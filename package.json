@@ -1,0 +1,11 @@
+{
+  "main": "app/*.js",
+  "name": "azure-functions-core-tools-restart-bug",
+  "scripts": {
+    "start": "func start --javascript"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.1",
+    "azure-functions-core-tools": "^4.0.5390"
+  }
+}
